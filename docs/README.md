@@ -27,7 +27,7 @@ func main() {
 * 執行結果
 
 ```
-SryScheduler: 2024/01/30 01:41:47 INFO: Task started id: 4445324a-1202-4ac8-94c1-c2197eaf0337
+SryScheduler: 2024/01/30 01:41:47 INFO: Task started id: 4445324a...
 Hello world!
-SryScheduler: 2024/01/30 01:41:47 INFO: Task completed successfully id: 4445324a-1202-4ac8-94c1-c2197eaf0337
+SryScheduler: 2024/01/30 01:41:47 INFO: Task completed successfully id: 4445324a...
 ```
